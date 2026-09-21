@@ -13,7 +13,6 @@ build/
 .eggs/
 *.egg
 .venv/
-.env
 .uv/
 uv.lock
 
@@ -22,3 +21,5 @@ uv.lock
 
 # Claude Code local state / agent worktrees
 .claude/
+config.bat
+node_modules
